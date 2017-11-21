@@ -15,3 +15,7 @@ If you wish to recreate this example using AR instead of just playing the scene 
 While I cleaned up the code a little bit, this is one of my first Unity projects ever. Suffice it to say that the code and the project as a whole could stand to be improved. I have already undertaken some of these improvements in my later work, but those will remain publicly unavailable for the time being.
 
 I have since expanded upon this project to include networking, and I have expanded rotation markers' capabilities to include controlling color. I will publish these eventually but am currently developing them further.
+
+* * *
+
+[_Return to personal portfolio page._](https://iwardlaw.github.io/portfolio)
